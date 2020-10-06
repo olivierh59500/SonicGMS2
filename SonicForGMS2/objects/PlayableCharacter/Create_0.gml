@@ -60,6 +60,7 @@ ceiling_land_threshold = -4;
 roll_threshold = 1.03125;
 unroll_threshold = 0.5;
 slide_threshold = 2.5;
+ramp_threshold = 2.5;
 
 // collision detection
 x_radius = 8;
@@ -87,7 +88,7 @@ gravity_direction = 0;
 
 local_direction = 0;
 mask_direction = 0;
-angle_resolution = 1.40625;
+angle_resolution = 1;
 
 local_instances = ds_list_create();
 local_solids = ds_list_create();

@@ -7,18 +7,23 @@ var radius = argument1;
 
 var result = noone;
 
-with (character) {
-    var total = ds_list_size(local_solids);
-    var ind;
-    for (var n = 0; n < total; ++n) {
-        ind = local_solids[| n];
-        if (instance_exists(ind)) {
-            if (ind.top_solid and game_pc_lower_in_shape(self, ind, radius)) {
-                result = ind;
-                break;
-            }
-        }
-    }
+with (character)
+{
+	var total = ds_list_size(local_solids);
+	var ind;
+	for (var n = 0; n < total; ++n)
+	{
+		ind = local_solids[| n];
+		if (instance_exists(ind))
+		{
+			if (ind.top_solid and game_pc_lower_in_shape(self, ind, radius) and
+				not game_pc_on_ramp(self, ind, x_speed, mask_direction))
+			{
+				result = ind;
+				break;
+			}
+		}
+	}
 }
 
 return result;

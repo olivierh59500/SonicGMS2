@@ -1,5 +1,4 @@
 /// @description Generate sinusoid
-var half_pi = pi * 0.5;
 var ix = 0;
 var iy = 0;
 
@@ -12,7 +11,7 @@ for (var n = 0; n < total_nodes; ++n)
 	// calculate next intersection
 	t = (n + 1) / total_nodes;
 	ix = t * width;
-	iy = sin(t * half_pi) * height;
+	iy = sin(t * HALF_PI) * height;
 
 	ox = (xsign > 0) ? bbox_right - px : bbox_left + px;
 	oy = (ysign > 0) ? bbox_top + py : bbox_bottom - py;

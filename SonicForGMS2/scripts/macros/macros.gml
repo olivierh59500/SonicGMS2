@@ -14,3 +14,4 @@
 #macro RINGS_PER_LIFE 100
 #macro SCORE_PER_LIFE 50000
 #macro STARTING_LIFE_COUNT 3
+#macro HALF_PI (pi * 0.5)

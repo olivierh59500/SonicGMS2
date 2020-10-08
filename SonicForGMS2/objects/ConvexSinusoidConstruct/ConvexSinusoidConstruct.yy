@@ -1,18 +1,18 @@
 {
-    "id": "bf9b0f78-401e-489d-a5a1-b56f57ab30a0",
+    "id": "cee22e3e-4fd7-4aad-8970-f407169178fb",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "QuarterEllipseConstruct",
+    "name": "ConvexSinusoidConstruct",
     "eventList": [
         {
-            "id": "fae50909-523b-4434-84f9-3ea4d989aacb",
+            "id": "baf256d5-1cde-4d9c-ab02-1c2491a39447",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 10,
             "eventtype": 7,
-            "m_owner": "bf9b0f78-401e-489d-a5a1-b56f57ab30a0"
+            "m_owner": "cee22e3e-4fd7-4aad-8970-f407169178fb"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -31,14 +31,14 @@
     "physicsShape": 0,
     "physicsShapePoints": [
         {
-            "id": "547475a9-2542-4765-b62a-97d87e4491be",
+            "id": "9ea21bf0-0c15-491b-b053-399c994a26c0",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 0,
             "y": 0
         },
         {
-            "id": "87667925-46d1-4f57-91ee-71c1c886c7bb",
+            "id": "035f052a-02ce-4912-a538-c2d7a02cf1a9",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 16,
@@ -48,6 +48,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "a5642a38-fbb5-41fb-b25b-48cf96a807d2",
+    "spriteId": "3e7a644d-416d-4166-8376-93eade10c0d4",
     "visible": false
 }

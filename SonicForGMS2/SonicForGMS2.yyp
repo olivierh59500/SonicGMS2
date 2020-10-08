@@ -1295,6 +1295,14 @@
             }
         },
         {
+            "Key": "1ec97e9c-f717-4e11-8ae5-1928852bbb19",
+            "Value": {
+                "id": "98d6a324-7df9-43c3-a5ff-2ffade2b0ee6",
+                "resourcePath": "objects\\ConcaveSinusoidConstruct\\ConcaveSinusoidConstruct.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1f5eadb4-8689-4dac-a196-499e4f0422b8",
             "Value": {
                 "id": "9d37281e-eaf7-4b4a-8a16-864419740e1e",
@@ -2511,6 +2519,14 @@
             }
         },
         {
+            "Key": "3e7a644d-416d-4166-8376-93eade10c0d4",
+            "Value": {
+                "id": "42e98220-caa7-42e1-96b8-d2d467ec9415",
+                "resourcePath": "sprites\\ConvexSinusoidMaskSprite\\ConvexSinusoidMaskSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3ea92307-85c7-45a0-9496-f7e43261b8b2",
             "Value": {
                 "id": "9f005424-a6c5-4d9e-875b-9c3ce865cd89",
@@ -3351,6 +3367,14 @@
             }
         },
         {
+            "Key": "51849a0d-de01-48c6-aa7f-bc6aa871e6e3",
+            "Value": {
+                "id": "d22a55b0-4acc-402c-b5ad-0d5594376878",
+                "resourcePath": "views\\51849a0d-de01-48c6-aa7f-bc6aa871e6e3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "51b7e6e2-04bd-4395-ac2d-717fa94c9ebe",
             "Value": {
                 "id": "292faad0-c692-4d08-b0c3-17fc844a08b7",
@@ -3620,6 +3644,14 @@
                 "id": "60408888-cdbe-4f03-97d2-681e1241c566",
                 "resourcePath": "views\\583e36d8-2e57-4f71-8b81-fc0427ed369a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "58720df5-6b49-42f3-abaf-226cdfa0eef4",
+            "Value": {
+                "id": "d942e158-6327-4330-a673-c92089ed05ec",
+                "resourcePath": "objects\\TerrainConstruct\\TerrainConstruct.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -7455,6 +7487,14 @@
             }
         },
         {
+            "Key": "b713e8a6-1838-4ca9-bfc0-53b15c3e281c",
+            "Value": {
+                "id": "29e16825-17cf-42f8-b885-e985a6bc1f7f",
+                "resourcePath": "sprites\\ConcaveSinusoidMaskSprite\\ConcaveSinusoidMaskSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b78b37c8-ce0a-4506-ae00-eb7d35acff74",
             "Value": {
                 "id": "3e29ad95-b0ed-4334-9480-4da1575e2d8c",
@@ -8396,6 +8436,14 @@
                 "id": "76e64c21-83a4-430d-9643-004b37ff16b7",
                 "resourcePath": "views\\ce9ffbc2-0d3a-4a8c-8eee-6579eae25eaa.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cee22e3e-4fd7-4aad-8970-f407169178fb",
+            "Value": {
+                "id": "b0479182-69c6-4e50-aceb-5ec103008837",
+                "resourcePath": "objects\\ConvexSinusoidConstruct\\ConvexSinusoidConstruct.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -9380,14 +9428,6 @@
                 "id": "b5c04ffb-82a3-42c0-b687-9050447e629f",
                 "resourcePath": "sprites\\BridgeNodeSprite\\BridgeNodeSprite.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "e6e1172f-1756-477d-b371-76d13d68e75e",
-            "Value": {
-                "id": "91a50818-4f33-4627-bb11-e3a2d52d390a",
-                "resourcePath": "views\\e6e1172f-1756-477d-b371-76d13d68e75e.yy",
-                "resourceType": "GMFolder"
             }
         },
         {

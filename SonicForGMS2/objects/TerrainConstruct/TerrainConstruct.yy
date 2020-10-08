@@ -1,23 +1,33 @@
 {
-    "id": "bf9b0f78-401e-489d-a5a1-b56f57ab30a0",
+    "id": "58720df5-6b49-42f3-abaf-226cdfa0eef4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "QuarterEllipseConstruct",
+    "name": "TerrainConstruct",
     "eventList": [
         {
-            "id": "fae50909-523b-4434-84f9-3ea4d989aacb",
+            "id": "3a01741d-7390-414a-b425-7f981fcd8ac1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "58720df5-6b49-42f3-abaf-226cdfa0eef4"
+        },
+        {
+            "id": "656314fd-5f97-4fca-9691-4978b889d492",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 10,
             "eventtype": 7,
-            "m_owner": "bf9b0f78-401e-489d-a5a1-b56f57ab30a0"
+            "m_owner": "58720df5-6b49-42f3-abaf-226cdfa0eef4"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "58720df5-6b49-42f3-abaf-226cdfa0eef4",
+    "parentObjectId": "f38338dd-b8b7-4467-b0f1-e4634c284b0a",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -28,26 +38,11 @@
     "physicsObject": false,
     "physicsRestitution": 0.1,
     "physicsSensor": false,
-    "physicsShape": 0,
-    "physicsShapePoints": [
-        {
-            "id": "547475a9-2542-4765-b62a-97d87e4491be",
-            "modelName": "GMPoint",
-            "mvc": "1.0",
-            "x": 0,
-            "y": 0
-        },
-        {
-            "id": "87667925-46d1-4f57-91ee-71c1c886c7bb",
-            "modelName": "GMPoint",
-            "mvc": "1.0",
-            "x": 16,
-            "y": 16
-        }
-    ],
+    "physicsShape": 1,
+    "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "a5642a38-fbb5-41fb-b25b-48cf96a807d2",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": false
 }
